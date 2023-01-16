@@ -1,3 +1,5 @@
 Estoy creando el 1er archivo del repositorio
 
 Ahora, luego de crear el archivo "cambio1.txt", voy a ejecutar un nuevo commit en él.
+
+Este es otro cambio que haré en la rama 2.
