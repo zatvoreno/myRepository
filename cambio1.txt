@@ -1,3 +1,3 @@
 Estoy creando el 1er archivo del repositorio
 
-Ahora, luego de crearlo, voy a ejecutar un nuevo commit en él.
+Ahora, luego de crear el archivo "cambio1.txt", voy a ejecutar un nuevo commit en él.
